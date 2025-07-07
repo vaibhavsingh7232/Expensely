@@ -1,6 +1,6 @@
 # 🚀 Expensely
 
-A simple and clean expense-splitting app built using **Flutter** for the frontend and **Node.js + Express + MongoDB** for the backend.
+A simple and clean expense-splitting app built using **Flutter** for the frontend and Dart SDK for main backend **Node.js + Express + MongoDB** for the bill splitting backend.
 
 ---
 
