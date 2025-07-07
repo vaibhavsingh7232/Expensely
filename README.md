@@ -1,12 +1,41 @@
-# Expensely
+# 🚀 Expensely
 
-On one terminal run these:
+A simple and clean expense-splitting app built using **Flutter** for the frontend and **Node.js + Express + MongoDB** for the backend.
+
+---
+
+## 🧹 Getting Started
+
+### 📱 Frontend Setup (Flutter)
+
+1. Open a terminal in the project root directory.
+2. Run the following commands:
+
+```bash
 flutter clean
 flutter pub get
 flutter run
+```
 
-on another terminal run these:
+---
+
+### 🌐 Backend Setup (Node.js + Express)
+
+1. Open another terminal and navigate to the backend folder:
+
+```bash
 cd bill_splitter_backend
+```
+
+2. Initialize a new Node.js project and install dependencies:
+
+```bash
 npm init -y
 npm install express mongoose cors dotenv
+```
+
+3. Start the backend server:
+
+```bash
 node index.js
+```
