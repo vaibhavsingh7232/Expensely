@@ -6,7 +6,7 @@ A simple and clean expense-splitting app built using **Flutter** for the fronten
 
 ## 🧹 Getting Started
 
-### 📱 Frontend Setup (Flutter)
+### 📱 Main Setup Frontend & Backend (Flutter)
 
 1. Open a terminal in the project root directory.
 2. Run the following commands:
@@ -19,7 +19,7 @@ flutter run
 
 ---
 
-### 🌐 Backend Setup (Node.js + Express)
+### 🌐Bill Splitting Backend Setup (Node.js + Express)
 
 1. Open another terminal and navigate to the backend folder:
 
