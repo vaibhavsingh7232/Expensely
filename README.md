@@ -2,7 +2,7 @@
 
 A simple and clean expense-splitting app built using **Flutter** for the Frontend and **Firebase Flutter SDK** for maximum of the Backend. 
 
-**Node.js + Express + MongoDB** for the bill splitting backend(a separate backend for this particular feature we wanted to try this and we learned a lot from implementing two different backend framework).
+**Node.js + Express + MongoDB** for the bill splitting backend(a separate backend for this particular feature we wanted to try this and we learned a lot from implementing two different backend frameworks).
 
 ---
 
