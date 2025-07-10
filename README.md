@@ -145,6 +145,12 @@ This project includes an OCR (Optical Character Recognition) feature designed to
 - **Firebase Cloud Functions**: Hosts the serverless functions that process and retrieve OCR data.
 - **Regex Parsing**: Identifies specific fields within the extracted text.
 
+______
+
+## Google Gemini API Integration
+The application uses the [Google Gemini API](https://aistudio.google.com/apikey/) to provide real-time insights into your spending.
+
+_______
 ## Currency API Integration
 
 The application uses the [Open Exchange Rates API](https://openexchangerates.org/) to provide real-time currency data. Key functionalities include:
@@ -153,9 +159,6 @@ The application uses the [Open Exchange Rates API](https://openexchangerates.org
 
 - **Conversion Rates Fetching**: The service retrieves current conversion rates, allowing users to view expenses in their preferred currency.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 ## Acknowledgments
