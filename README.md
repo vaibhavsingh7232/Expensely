@@ -7,6 +7,11 @@ Expensely is a Flutter application designed to help users scan, manage, and anal
 ## 📱Features
 
 - **Receipt Scanning**: Users can scan receipts using the device camera and extract relevant data using an integrated Receipt API, allowing for quick data entry.
+
+- <p align="center">
+  <img src="expensely-pics/OCR.jpg" alt="OCR" width="400"/>
+</p>
+
  ![OCR](expensely-pics/OCR.jpg)
 
 - **Expense Management**: The app allows users to categorize their expenses based on the extracted data, making it easier to track spending habits.
