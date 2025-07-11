@@ -21,7 +21,7 @@ Expensely is a Flutter application designed to help users scan, manage, and anal
 
 - **Receipt Scanning**: Users can scan receipts using the device camera and extract relevant data using an integrated Receipt API, allowing for quick data entry.
 
-- <p align="center">
+  <p align="center">
   <img src="expensely-pics/OCR.jpg" alt="OCR" width="400"/>
 </p>
 
@@ -29,49 +29,49 @@ Expensely is a Flutter application designed to help users scan, manage, and anal
 
 - **Expense Management**: The app allows users to categorize their expenses based on the extracted data, making it easier to track spending habits.
 
-- <p align="center">
+  <p align="center">
   <img src="expensely-pics/insights.jpg" alt="insights" width="400"/>
 </p>
 
 
 - **Gemini AI Integration**: Get Gemini powered insights into your spending habits.
 
-- <p align="center">
+  <p align="center">
   <img src="expensely-pics/gemini_report.jpg" alt="gemini" width="400"/>
 </p>
 
 
 - **Data Visualization**: Users can visualize their expenses through interactive pie charts and graphs, helping them understand their financial situation at a glance.
 
-- <p align="center">
+  <p align="center">
   <img src="expensely-pics/charts.jpg" alt="chart" width="400"/>
 </p>
 
 
 - **Budget Setting**: Users can set and manage budgets for different expense categories, with alerts for budget limits to promote better financial management.
 
-- <p align="center">
+  <p align="center">
   <img src="expensely-pics/budget.jpg" alt="budget" width="400"/>
 </p>
 
   
 - **Custom Categories**: The app supports custom expense categories, enabling users to tailor their tracking to their specific needs.
 
-- <p align="center">
+  <p align="center">
   <img src="expensely-pics/categories.jpg" alt="categories" width="400"/>
 </p>
 
 
 - **Bill Splitting**: Users can split the bill with other people.
 
-- <p align="center">
+  <p align="center">
   <img src="expensely-pics/bill_split.jpg" alt="bill_split" width="400"/>
 </p>
 
 
 - **Settings**: The app has settings page to change the profile picture, logout & sign in another user.
 
-- <p align="center">
+  <p align="center">
   <img src="expensely-pics/settings.jpg" alt="settings" width="400"/>
 </p>
 
