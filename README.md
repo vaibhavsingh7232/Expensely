@@ -7,25 +7,25 @@ Expensely is a Flutter application designed to help users scan, manage, and anal
 ## 📱Features
 
 - **Receipt Scanning**: Users can scan receipts using the device camera and extract relevant data using an integrated Receipt API, allowing for quick data entry.
-- ![OCR](expensely-pics/OCR.png)
+ ![OCR](expensely-pics/OCR.jpg)
 
 - **Expense Management**: The app allows users to categorize their expenses based on the extracted data, making it easier to track spending habits.
-- ![Insights](expensely-pics/insights.jpg)
+ ![Insights](expensely-pics/insights.jpg)
 
 - **Gemini AI Integration**: Get Gemini powered insights into your spending habits.
-- ![Gemini](expensely-pics/gemini_report.jpg)
+ ![Gemini](expensely-pics/gemini_report.jpg)
 
 - **Data Visualization**: Users can visualize their expenses through interactive pie charts and graphs, helping them understand their financial situation at a glance.
-- ![Charts](expensely-pics/charts.jpg)
+ ![Charts](expensely-pics/charts.jpg)
 
 - **Budget Setting**: Users can set and manage budgets for different expense categories, with alerts for budget limits to promote better financial management.
-- ![Budget](expensely-pics/budget.jpg)
+ ![Budget](expensely-pics/budget.jpg)
   
 - **Custom Categories**: The app supports custom expense categories, enabling users to tailor their tracking to their specific needs.
-- ![Categories](expensely-pics/categories.jpg)
+ ![Categories](expensely-pics/categories.jpg)
 
 - **Bill Splitting**: Users can split the bill with other people.
-- ![Bill Split](expensely-pics/bill_split.jpg)
+ ![Bill Split](expensely-pics/bill_split.jpg)
 
 - **Offline Functionality**: The app supports offline mode, allowing users to access their receipts and data even without an internet connection.(In progress)
 
