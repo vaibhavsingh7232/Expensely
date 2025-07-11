@@ -1,5 +1,18 @@
 # 🚀Expensely
 
+<p align="center">
+  <img src="expensely-pics/home1.jpg" alt="Home 1" width="200"/>
+  <img src="expensely-pics/home2.jpg" alt="Home 2" width="200"/>
+  <img src="expensely-pics/home3.jpg" alt="Home 3" width="200"/>
+</p>
+
+
+<p align="center">
+  <img src="expensely-pics/welcome.jpg" alt="Welcome" width="400"/>
+</p>
+
+
+
 
 **Description:**
 Expensely is a Flutter application designed to help users scan, manage, and analyze their receipts efficiently. The app integrates Firebase for user authentication and data storage, providing a seamless experience for tracking expenses.
@@ -12,27 +25,57 @@ Expensely is a Flutter application designed to help users scan, manage, and anal
   <img src="expensely-pics/OCR.jpg" alt="OCR" width="400"/>
 </p>
 
- ![OCR](expensely-pics/OCR.jpg)
+ 
 
 - **Expense Management**: The app allows users to categorize their expenses based on the extracted data, making it easier to track spending habits.
- ![Insights](expensely-pics/insights.jpg)
+
+- <p align="center">
+  <img src="expensely-pics/insights.jpg" alt="insights" width="400"/>
+</p>
+
 
 - **Gemini AI Integration**: Get Gemini powered insights into your spending habits.
- ![Gemini](expensely-pics/gemini_report.jpg)
+
+- <p align="center">
+  <img src="expensely-pics/gemini_report.jpg" alt="gemini" width="400"/>
+</p>
+
 
 - **Data Visualization**: Users can visualize their expenses through interactive pie charts and graphs, helping them understand their financial situation at a glance.
- ![Charts](expensely-pics/charts.jpg)
+
+- <p align="center">
+  <img src="expensely-pics/charts.jpg" alt="chart" width="400"/>
+</p>
+
 
 - **Budget Setting**: Users can set and manage budgets for different expense categories, with alerts for budget limits to promote better financial management.
- ![Budget](expensely-pics/budget.jpg)
+
+- <p align="center">
+  <img src="expensely-pics/budget.jpg" alt="budget" width="400"/>
+</p>
+
   
 - **Custom Categories**: The app supports custom expense categories, enabling users to tailor their tracking to their specific needs.
- ![Categories](expensely-pics/categories.jpg)
+
+- <p align="center">
+  <img src="expensely-pics/categories.jpg" alt="categories" width="400"/>
+</p>
+
 
 - **Bill Splitting**: Users can split the bill with other people.
- ![Bill Split](expensely-pics/bill_split.jpg)
 
-- **Offline Functionality**: The app supports offline mode, allowing users to access their receipts and data even without an internet connection.(In progress)
+- <p align="center">
+  <img src="expensely-pics/bil_split.jpg" alt="bill_split" width="400"/>
+</p>
+
+
+- **Settings**: The app has settings page to change the profile picture, logout & sign in another user.
+
+- <p align="center">
+  <img src="expensely-pics/settings.jpg" alt="settings" width="400"/>
+</p>
+
+- **Offline Functionality**: The app supports offline mode, allowing users to access their receipts and data even without an internet connection.
 
 
 ## Platforms
