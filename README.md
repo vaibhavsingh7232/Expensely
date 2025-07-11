@@ -65,7 +65,7 @@ Expensely is a Flutter application designed to help users scan, manage, and anal
 - **Bill Splitting**: Users can split the bill with other people.
 
 - <p align="center">
-  <img src="expensely-pics/bil_split.jpg" alt="bill_split" width="400"/>
+  <img src="expensely-pics/bill_split.jpg" alt="bill_split" width="400"/>
 </p>
 
 
