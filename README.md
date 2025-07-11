@@ -77,6 +77,10 @@ Expensely is a Flutter application designed to help users scan, manage, and anal
 
 - **Offline Functionality**: The app supports offline mode, allowing users to access their receipts and data even without an internet connection.
 
+ <p align="center">
+  <img src="expensely-pics/reciepts.jpg" alt="reciepts.jpg" width="400"/>
+</p>
+
 
 ## Platforms
 
