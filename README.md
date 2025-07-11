@@ -6,6 +6,14 @@
   <img src="expensely-pics/home3.jpg" alt="Home 3" width="200"/>
 </p>
 
+<p align="center">
+  <img src="expensely-pics/signup.jpg" alt="Sign-Up" width="200"/>
+  <img src="expensely-pics/Login.jpg" alt="Login" width="200"/>
+  <img src="expensely-pics/verify_screen.jpg" alt="Verify Screen" width="200"/>
+</p>
+
+
+
 
 <p align="center">
   <img src="expensely-pics/welcome.jpg" alt="Welcome" width="400"/>
